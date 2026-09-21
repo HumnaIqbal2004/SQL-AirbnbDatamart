@@ -24,6 +24,9 @@ A fully normalized, 20-entity relational Data Mart designed to model the operati
 
 The first step of this project was analyzing the fundamental structure and functionality of an Airbnb system designed to connect guests to hosts renting out properties. This was done by creating an entity relationship diagram to map out the key user groups, the actions they perform and the data and functions required for the system to operate correctly.
 
+![ErDiagram](ERdiagram.png)
+
+
 Next using the ER diagram as a blueprint the physical database was created on **MySQL (InnoDB engine)**. 
 
 ## The system includes
