@@ -118,3 +118,6 @@ Verify:
 2. Enter the following statement 
 DROP DATABASE IF EXISTS airbnb_datamart; 
 3. Follow from step 1 in the installation guide above
+
+---
+
